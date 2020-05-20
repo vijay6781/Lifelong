@@ -17,6 +17,10 @@ This Website Helps Student.This is good initiative,As we know that we all have o
    
  **Book Will Available After Lockdown.**  
  *CONTACT: Discovery Coaching Centre* 
+ * Item 1
+* Item 2
+  * Item 2a
+  * Item 2b
   
 #         WEBSITE WILL BE UPTADE...
-                 |THANK YOU.....|
+                        THANK YOU.....
