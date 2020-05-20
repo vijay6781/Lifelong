@@ -3,16 +3,9 @@
   This Website Helps Student.This is good initiative,
   As we know that we all have old as well new book which may be useful for student.
 
-                        ::: warning
                                  NOTICE
                             
-             This Website Created For Student Help
-
-:::
-                        
-::: warning
-*here be dragons*
-:::            
+             This Website Created For Student Help       
 
 
    RESULT       | BOOK NAME |  MRP(RS) | Discout |Selling Price |
