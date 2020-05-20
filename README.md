@@ -1,11 +1,11 @@
-                                          WELCOME TO Dicovery.
+    WELCOME TO Dicovery.
 
-This Website Helps Student.This is good initiativ,As we know that we all have old as well new book which may be useful for student.  
+This Website Helps Student.This is good initiative,As we know that we all have old as well new book which may be useful for student.  
                                
                                
-                                          NOTICE
+                 NOTICE
                             
-                           This Website Created For Student Help    
+    This Website Created For Student Help    
                            
                     
 
@@ -14,8 +14,8 @@ This Website Helps Student.This is good initiativ,As we know that we all have ol
   [Bihar Board 10th Result Link](http://biharboardonline.bihar.gov.in/)| Errorless Physics(AIIMS/IIT) | 1350 | 90% | 135 |
    
    
- ##Book Will Available After LOackdown.  
- ##CONTACT: Discovery Coaching Centre 
+ ## Book Will Available After Lockdown.  
+ ## CONTACT: Discovery Coaching Centre 
   
 # WEBSITE WILL BE UPTADE...
 # THANK YOU.....
