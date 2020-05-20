@@ -1,4 +1,4 @@
-               WELCOME TO Dicovery.
+                WELCOME TO Dicovery.
 
 This Website Helps Student.This is good initiative,As we know that we all have old as well new book which may be useful for student.  
                                
@@ -18,5 +18,5 @@ This Website Helps Student.This is good initiative,As we know that we all have o
  **Book Will Available After Lockdown.**  
  *CONTACT: Discovery Coaching Centre* 
   
-# WEBSITE WILL BE UPTADE...
-# THANK YOU.....
+#         WEBSITE WILL BE UPTADE...
+#                 THANK YOU.....
