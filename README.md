@@ -12,7 +12,7 @@ This Website Helps Student.This is good initiativ,As we know that we all have ol
 
 RESULT  | BOOK NAME |  MRP(RS) | Discout |Selling Price |
   [Bihar Board 10th Result Link](http://biharboardonline.bihar.gov.in/)| Errorless Physics(AIIMS/IIT) | 1350 | 90% | 135 |
- 
-
-# THANK YOU.....
+  
+  
 # WEBSITE WILL BE UPTADE...
+# THANK YOU.....
