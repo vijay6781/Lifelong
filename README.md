@@ -1,12 +1,7 @@
-                   :heart_eyes:    WELCOME TO Dicovery| :heart_eyes:
+ WELCOME TO Dicovery                | 
 
-This Website Helps Student.This is good initiative,As we know that we all have old as well new book which may be useful for student.  
-                        :heart_eyes:
-                        As Kanye West said:
-
-> We're living the future so
-> the present is our past.
-                               
+This Website Helps Student.This is good initiative,As we know that we all have old as well new book which may be useful for student.                     
+                        
                          NOTICE
                             
             This Website Created For Student Help    
