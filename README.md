@@ -3,7 +3,7 @@
   This Website Helps Student.This is good initiative,
   As we know that we all have old as well new book which may be useful for student.
 
-                                 NOTICE
+                              NOTICE
                             
              This Website Created For Student Help       
 
