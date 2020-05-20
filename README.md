@@ -1,11 +1,11 @@
-                      WELCOME TO Dicovery.
+                      WELCOME TO Dicovery|
 
 This Website Helps Student.This is good initiative,As we know that we all have old as well new book which may be useful for student.  
                                
                                
-                             NOTICE
+                         NOTICE
                             
-              This Website Created For Student Help    
+            This Website Created For Student Help    
                            
                     
 
@@ -19,4 +19,4 @@ This Website Helps Student.This is good initiative,As we know that we all have o
  *CONTACT: Discovery Coaching Centre* 
   
 #         WEBSITE WILL BE UPTADE...
-#                 THANK YOU.....
+                 |THANK YOU.....|
