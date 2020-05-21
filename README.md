@@ -37,7 +37,7 @@
   
  **Book Will Available After Lockdown.**  
  *CONTACT: Discovery Coaching Centre* 
-- ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `#f03c15`
+- ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)
   
 #         WEBSITE WILL BE UPDATE...  
   
