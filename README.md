@@ -14,7 +14,6 @@
          This Website Created For Student Help       
 
 
-#BOOK SELL-
   BOOK NAME |  MRP(RS) | Discout |Selling Price |
   Errorless Physics(AIIMS/IIT) | 1350 | 90% | 135 |
   Biology 10th Bharati Bhavan|120| 80% | 24| 
