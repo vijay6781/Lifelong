@@ -15,10 +15,10 @@
          
          
  
- Name of Book                   |  MRP(₹) | Discout |Sell Price(₹ ) |
- Errorless Physics(AIIMS/IIT)   | 1350 | 90% | 135 |
+ Name of Book |  MRP(₹) | Discout |Sell Price(₹ ) |
+ Errorless Physics(AIIMS/IIT) | 1350 | 90% | 135 |
   Biology 10th Bharati Bhavan   |120| 80% | 24| 
-   Upsc NDA/NA                   | 650 | 90% | 65 |
+   Upsc NDA/NA   | 650 | 90% | 65 |
  **Book Will Available After Lockdown.**  
  *CONTACT: Discovery Coaching Centre* 
 
