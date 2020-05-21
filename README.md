@@ -2,7 +2,7 @@
  ![image](https://yt3.ggpht.com/a/AATXAJzL3lJx71y0-Zw3mITaW6DDfwg9ztjB4PgtYg=s100-c-k-c0xffffffff-no-rj-mo)
  
  ```
-                            WELCOME TO DISCOVERY 
+                              WELCOME TO DISCOVERY 
   ```  
   ------
 
@@ -11,7 +11,7 @@
 
                               NOTICE
                             
-             This Website Created For Student Help       
+                This Website Created For Student Help       
 
 
    RESULT       | BOOK NAME |  MRP(RS) | Discout |Selling Price |
