@@ -12,6 +12,7 @@
                        NOTICE
                             
          This Website Created For Student Help 
+         
    RESULT       | link   |
    Bihar Board 10th Result(coming soon) |[*click here*](http://biharboardonline.bihar.gov.in)|
   CBSE 10th Result |[*click here*](http://cbseresults.nic.in/class10/class10th19.htm)|
