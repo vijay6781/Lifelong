@@ -1,9 +1,10 @@
- ```
+
  ![image](https://yt3.ggpht.com/a/AATXAJzL3lJx71y0-Zw3mITaW6DDfwg9ztjB4PgtYg=s100-c-k-c0xffffffff-no-rj-mo)
  -----
  -----
  ```
-                            WELCOME TO DISCOVERY              
+                            WELCOME TO DISCOVERY 
+  ```                          
 
   This Website Helps Student.This is good initiative,
   As we know that we all have old as well new book which may be useful for student.
@@ -12,7 +13,7 @@
                             
              This Website Created For Student Help       
 
-`
+
    RESULT       | BOOK NAME |  MRP(RS) | Discout |Selling Price |
    [Bihar Board 10th Result Link](http://biharboardonline.bihar.gov.in)   | Errorless Physics(AIIMS/IIT) | 1350 | 90% | 135 |
   [ CBSE 10th Result Link](http://cbseresults.nic.in/class10/class10th19.htm)| Upsc NDA/NA | 650 | 90% | 65 |
