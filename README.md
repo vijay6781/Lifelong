@@ -2,16 +2,16 @@
  ![image](https://yt3.ggpht.com/a/AATXAJzL3lJx71y0-Zw3mITaW6DDfwg9ztjB4PgtYg=s100-c-k-c0xffffffff-no-rj-mo)
  
  ```
-            WELCOME TO DISCOVERY 
+          WELCOME TO DISCOVERY 
   ```  
   ------
 
   This Website Helps Student.This is good initiative,
   As we know that we all have old as well new book which may be useful for student.
 
-                         NOTICE
+                       NOTICE
                             
-           This Website Created For Student Help       
+         This Website Created For Student Help       
 
 
    RESULT       | BOOK NAME |  MRP(RS) | Discout |Selling Price |
@@ -25,4 +25,4 @@
 
   
 #         WEBSITE WILL BE UPTADE...
-                        THANK YOU.....
+                 THANK YOU.....
