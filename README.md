@@ -20,10 +20,10 @@
   
  ----        
  
-RESULT       | BOOK NAME |  MRP(RS) | Discout |Selling Price |
-   [Bihar Board 10th Result Link](http://biharboardonline.bihar.gov.in)   | Errorless Physics(AIIMS/IIT) | 1350 | 90% | 135 |
-  [CBSE 10th Result coming  soon](http://cbseresults.nic.in/class10/class10th19.htm)| Upsc NDA/NA | 650 | 90% | 65 |
-  [Cbse 12th result link](http://cbseresults.nic.in/class12/class12th19.htm)|Biology 10th Bharati Bhavan|120| 80% | 24|
+RESULT       | .........|
+   [Bihar Board 10th Result Link](http://biharboardonline.bihar.gov.in)   |........|
+  [CBSE 10th Result coming  soon](http://cbseresults.nic.in/class10/class10th19.htm)|.........|
+  [Cbse 12th result link](http://cbseresults.nic.in/class12/class12th19.htm)|.........|
   
  **Book Will Available After Lockdown.**  
  *CONTACT: Discovery Coaching Centre* 
