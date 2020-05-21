@@ -4,7 +4,7 @@
  ```
           WELCOME TO DISCOVERY 
   ```  
-  JOIN TO MY FACEBOOK PAGE|[*clickhere*](https://www.facebook.com/pages/category/Education/Discovery-Coaching-Noorsarai-Nalanda-1250305765120469/)|
+  JOIN TO MY FACEBOOK PAGE  | [*clickhere*](https://www.facebook.com/pages/category/Education/Discovery-Coaching-Noorsarai-Nalanda-1250305765120469/)|
   
   ------
 
