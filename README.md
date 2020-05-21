@@ -39,7 +39,6 @@
  *CONTACT: Discovery Coaching Centre* 
 
 ##         WEBSITE WILL BE UPDATE...  
-<h1> hvjdtrsty</h1>
   
-   ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)          THANK YOU.....
-  <h1 style="font-size:65px">fa fa-github </h1>
+   ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)     <h1 style="font-size:40px">Thank You... </h1>
+ 
