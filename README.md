@@ -33,11 +33,11 @@
   
   More Books         | [*click here*](https://docs.google.com/spreadsheets/d/1kvnfD-IXiNV7L51Zh9LpoPR2V5DxA_YF1zh9-gUldmw/edit?usp=sharing)|
  
-  if you want to buy |[*fill this form*](https://forms.gle/5rYRkacWytBEdRN49)|
+ if you want to buy |[*fill this form*](https://forms.gle/5rYRkacWytBEdRN49)|
   
  **Book Will Available After Lockdown.**  
  *CONTACT: Discovery Coaching Centre* 
-
+- ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `#f03c15`
   
 #         WEBSITE WILL BE UPDATE...  
   
