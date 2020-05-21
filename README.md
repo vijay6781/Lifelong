@@ -1,5 +1,6 @@
 
  ![image](https://yt3.ggpht.com/a/AATXAJzL3lJx71y0-Zw3mITaW6DDfwg9ztjB4PgtYg=s100-c-k-c0xffffffff-no-rj-mo)
+ ![image](https://photos.app.goo.gl/ueWtBJn3xRu8Xx2KA)
  
  ```
           WELCOME TO DISCOVERY 
