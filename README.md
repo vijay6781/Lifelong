@@ -12,7 +12,6 @@
                        NOTICE
                             
          This Website Created For Student Help 
- -------
  
 Name of Book    |  MRP(₹) | Discout |Sell Price(₹ ) |
  Errorless Physics(AIIMS/IIT) | 1350 | 90% | 135 |
