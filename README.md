@@ -34,8 +34,7 @@
  if you want to buy |[*fill this form*](https://forms.gle/5rYRkacWytBEdRN49)|
   
  **Book Will Available After Lockdown.**  
- *CONTACT: Discovery Coaching Centre* 
-
+ 
 ##         WEBSITE WILL BE UPDATE... 
 
   
