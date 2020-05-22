@@ -18,7 +18,7 @@
   <h3 style="color:rgb(255, 51, 15);text-align: center;font-size:25px">10th result coming soon </h3>
       
    RESULT       |   link   |
-   Bihar Board 10th Result(coming soon) |[*click here*](http://biharboardonline.bihar.gov.in)|
+   Bihar Board 10th Result |[*click here*](http://biharboardonline.bihar.gov.in)|
    Bihar Board 12th Result |[click here](http://onlinebseb.in/)|
   CBSE 10th Result |[*click here*](http://cbseresults.nic.in/class10/class10th19.htm)|
   Cbse 12th result link|[*click here*](http://cbseresults.nic.in/class12/class12th19.htm)|
