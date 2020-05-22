@@ -1,7 +1,8 @@
 
 <h2 style="color:rgb(255, 102, 163);text-align: center;font-size:25px">Welcome to my website</h2>
   
- [*JOIN TO MY FACEBOOK PAGE*](https://www.facebook.com/Life-long-104599801271473)
+   <h3 style="color:rgb(59, 255, 163);text-align: center;font-size:25px"><a href="https://www.facebook.com/Life-long-104599801271473"> JOIN TO MY FACEBOOK PAGE</a></h3>
+ 
   
   ------
 
