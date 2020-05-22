@@ -1,12 +1,12 @@
 
 <h2 style="color:rgb(255, 51, 153);text-align: center;font-size:25px">Welcome to my website</h2>
   
-   <h3 style="color:rgb(255,30,26);text-align: center;font-size:15px"><a href="https://www.facebook.com/Life-long-104599801271473"> JOIN TO MY FACEBOOK PAGE</a></h3>
+   <h3 style="color:rgb(25,30,226);text-align: center;font-size:15px"><a href="https://www.facebook.com/Life-long-104599801271473"> JOIN TO MY FACEBOOK PAGE</a></h3>
  
   
   ------
 
- <h3 style="color:rgb(26, 255, 26);margin:auto"> This Website Helps Student.This is good initiative.
+ <h3 style="color:rgb(255, 25, 216);margin:auto"> This Website Helps Student.This is good initiative.
   As we know that we all have old as well as new book which may be useful for student.</h3>
   
 
