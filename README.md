@@ -14,8 +14,10 @@
 
                        NOTICE
                             
-         This Website Created For Student Help 
-  <table>       
+         This Website Created For Student Help  
+         
+  <table>     
+         
          
    RESULT       |   link   |
    Bihar Board 10th Result(coming soon) |[*click here*](http://biharboardonline.bihar.gov.in)|
