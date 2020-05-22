@@ -17,6 +17,7 @@
          
    RESULT       |   link   |
    Bihar Board 10th Result(coming soon) |[*click here*](http://biharboardonline.bihar.gov.in)|
+   Bihar Board 12th Result |[8click here](http://onlinebseb.in/)|
   CBSE 10th Result |[*click here*](http://cbseresults.nic.in/class10/class10th19.htm)|
   Cbse 12th result link|[*click here*](http://cbseresults.nic.in/class12/class12th19.htm)|
   
