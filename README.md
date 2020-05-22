@@ -1,5 +1,9 @@
 <html>
-  <style type="text/css">
+
+<head>
+<title>Longlife book help</title>
+</head>
+<style type="text/css">
 body{
 	border: 2px solid rgba(200,20,19,0.5);
 	background:rgb(255,255,255);
@@ -18,6 +22,7 @@ th {
 }
 
 </style>
+
 
 <h2 style="color:rgb(255, 51, 153);text-align: center;font-size:25px">Welcome to my website</h2>
   
