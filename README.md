@@ -1,9 +1,9 @@
 
  ![image](https://yt3.ggpht.com/a/AATXAJzL3lJx71y0-Zw3mITaW6DDfwg9ztjB4PgtYg=s100-c-k-c0xffffffff-no-rj-mo)
  
- ```
-          WELCOME TO DISCOVERY 
-  ```  
+
+<h2 style="color:red;text-align: center;font-size:35px">Welcome to Discovery</h2>
+  
  [*JOIN TO MY FACEBOOK PAGE*](https://www.facebook.com/pages/category/Education/Discovery-Coaching-Noorsarai-Nalanda-1250305765120469/)
   
   ------
