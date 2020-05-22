@@ -7,7 +7,7 @@
   ------
    <table>
    <tr>
-     <th scope="row"><a href="https://navbharattimes.indiatimes.com/state/bihar/patna/coronavirus-latest-update-in-bihar-corona-patient-bihar-district-wise-detail/articleshow/75312015.cms">Biha Crona news</a></th>
+  <th  scope="row";style="color:red;text-align:center"><a href="https://navbharattimes.indiatimes.com/state/bihar/patna/coronavirus-latest-update-inbihar-corona-patient-bihar-district-wise-detail/articleshow/75312015.cms">Biha Crona news</a></th>
   </tr>
   </table>
   
