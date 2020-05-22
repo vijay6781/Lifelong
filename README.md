@@ -6,7 +6,7 @@
   
   ------
 
- <h3 style="color:rgb(255, 30, 39);margin:auto"> This Website Helps Student.This is good initiative.
+ <h3 style="color:rgb(25, 30, 255);margin:auto"> This Website Helps Student.This is good initiative.
   As we know that we all have old as well as new book which may be useful for student.</h3>
   
 
