@@ -50,7 +50,7 @@
 
  <table>
    <tr>
-  <th  scope="row"><div syle="color:rgb(199,77,99)"><a href="https://navbharattimes.indiatimes.com/state/bihar/patna/coronavirus-latest-update-inbihar-corona-patient-bihar-district-wise-detail/articleshow/75312015.cms">Biha Crona news</a></div></th>
+  <th  scope="row"><div syle="color:rgb(199,77,99) "><a href="https://navbharattimes.indiatimes.com/state/bihar/patna/coronavirus-latest-update-inbihar-corona-patient-bihar-district-wise-detail/articleshow/75312015.cms">Biha Crona news</a></div></th>
   </tr>
   </table>
 
