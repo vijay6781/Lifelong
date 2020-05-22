@@ -8,6 +8,8 @@
    <table>
    <tr>
      <th scope="row"><a href="https://navbharattimes.indiatimes.com/state/bihar/patna/coronavirus-latest-update-in-bihar-corona-patient-bihar-district-wise-detail/articleshow/75312015.cms"><Bihar Crona news</a></th>
+  </tr>
+  </table>
   
  <h3 style="color:rgb(25, 30, 255);margin:auto"> This Website Helps Student.This is good initiative.
   As we know that we all have old as well as new book which may be useful for student.</h3>
