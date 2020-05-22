@@ -5,11 +5,6 @@
  
   
   ------
-   <table>
-   <tr>
-  <th  scope="row";style="color:red;text-align:center"><a href="https://navbharattimes.indiatimes.com/state/bihar/patna/coronavirus-latest-update-inbihar-corona-patient-bihar-district-wise-detail/articleshow/75312015.cms">Biha Crona news</a></th>
-  </tr>
-  </table>
   
  <h3 style="color:rgb(25, 30, 255);margin:auto"> This Website Helps Student.This is good initiative.
   As we know that we all have old as well as new book which may be useful for student.</h3>
@@ -53,6 +48,11 @@
  
 ##         WEBSITE WILL BE UPDATE... 
 
+ <table>
+   <tr>
+  <th  scope="row"><div syle="color:rgb(199,77,99)"><a href="https://navbharattimes.indiatimes.com/state/bihar/patna/coronavirus-latest-update-inbihar-corona-patient-bihar-district-wise-detail/articleshow/75312015.cms">Biha Crona news</a></div></th>
+  </tr>
+  </table>
 
    <h1 style="color:rgb(10,200,60);font-size:50px;text-align: center;">Thank You... </h1>
  
