@@ -6,8 +6,8 @@
   
   ------
 
-  This Website Helps Student.This is good initiative.
-  As we know that we all have old as well new book which may be useful for student.
+ <h3 style="color:blue"> This Website Helps Student.This is good initiative.<br>
+  As we know that we all have old as well new book which may be useful for student.</h3>
   
 
                        NOTICE
