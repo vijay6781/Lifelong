@@ -41,6 +41,8 @@
   <tr>
     <th scope="row">For buy book</th> 
     <td><a href="https://forms.gle/5rYRkacWytBEdRN49">click here</a></td>
+  </tr>
+  </table>
   
   More Books         | [*click here*](https://docs.google.com/spreadsheets/d/1kvnfD-IXiNV7L51Zh9LpoPR2V5DxA_YF1zh9-gUldmw/edit?usp=sharing)|
  
