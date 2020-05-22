@@ -7,7 +7,7 @@
   ------
    <table>
    <tr>
-     <th scope="row"><a href="https://navbharattimes.indiatimes.com/state/bihar/patna/coronavirus-latest-update-in-bihar-corona-patient-bihar-district-wise-detail/articleshow/75312015.cms"><Bihar Crona news</a></th>
+     <th scope="row"><a href="https://navbharattimes.indiatimes.com/state/bihar/patna/coronavirus-latest-update-in-bihar-corona-patient-bihar-district-wise-detail/articleshow/75312015.cms">Biha Crona news</a></th>
   </tr>
   </table>
   
@@ -44,8 +44,8 @@
    ">click here</a></td>
   </tr>
   <tr>
-    <th style="color:red"; scope="row">For buy book</th> 
-    <td style="color:red"><a href="https://forms.gle/5rYRkacWytBEdRN49">click here</a></td>
+    <th scope="row">For buy book</th> 
+    <td><a href="https://forms.gle/5rYRkacWytBEdRN49">click here</a></td>
   </tr>
   </table>
   
