@@ -37,8 +37,7 @@
  
 ##         WEBSITE WILL BE UPDATE... 
 
-  
-   ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)   
-   <h1 style="font-size:50px">Thank You... </h1>
+
+   <h1 style="color:rgb(10,200,60);font-size:50px;text-align: center;">Thank You... </h1>
  
  
