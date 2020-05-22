@@ -1,7 +1,7 @@
 
 <h2 style="color:rgb(255, 51, 153);text-align: center;font-size:25px">Welcome to my website</h2>
   
-   <h3 style="color:rgb(51, 51, 255);text-align: center;font-size:15px"><a href="https://www.facebook.com/Life-long-104599801271473"> JOIN TO MY FACEBOOK PAGE</a></h3>
+   <h3 style="color:rgb(90, 51, 255);text-align: center;font-size:15px"><a href="https://www.facebook.com/Life-long-104599801271473"> JOIN TO MY FACEBOOK PAGE</a></h3>
  
   
   ------
@@ -14,7 +14,9 @@
                             
          This Website Created For Student Help  
                 
-         
+    
+  <h3 style="color:rgb(255, 51, 15);text-align: center;font-size:25px">10th result coming soon </h3>
+      
    RESULT       |   link   |
    Bihar Board 10th Result(coming soon) |[*click here*](http://biharboardonline.bihar.gov.in)|
    Bihar Board 12th Result |[click here](http://onlinebseb.in/)|
