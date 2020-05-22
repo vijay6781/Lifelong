@@ -1,28 +1,3 @@
-<html>
-
-<head>
-<title>Longlife book help</title>
-</head>
-<style type="text/css">
-body{
-	border: 2px solid rgba(200,20,19,0.5);
-	background:rgb(255,255,255);
-
-
-}
-
-td,
-th {
-    border: 5px solid rgb(190, 255, 190);
-    padding: 20px;
-   }
-  th[scope="col"] {
-  background-color:rgba(2,220,2,.5);
-   color:#fff;
-}
-
-</style>
-
 
 <h2 style="color:rgb(255, 51, 153);text-align: center;font-size:25px">Welcome to my website</h2>
   
@@ -81,4 +56,3 @@ th {
 
    <h1 style="color:rgb(10,200,60);font-size:50px;text-align: center;">Thank You... </h1>
  
- </html>
