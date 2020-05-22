@@ -1,5 +1,5 @@
 
-<h2 style="color:rgb(100,200,60);text-align: center;font-size:25px">Welcome to My Website</h2>
+<h2 style="color:rgb(100,200,60);text-align: center;font-size:25px">Welcome to my Website</h2>
   
  [*JOIN TO MY FACEBOOK PAGE*](https://www.facebook.com/pages/category/Education/Discovery-Coaching-Noorsarai-Nalanda-1250305765120469/)
   
