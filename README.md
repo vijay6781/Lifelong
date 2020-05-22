@@ -44,10 +44,6 @@
   </tr>
   </table>
   
-  More Books         | [*click here*](https://docs.google.com/spreadsheets/d/1kvnfD-IXiNV7L51Zh9LpoPR2V5DxA_YF1zh9-gUldmw/edit?usp=sharing)|
- 
- if you want to buy |[*fill this form*](https://forms.gle/5rYRkacWytBEdRN49)|
-  
  **Book Will Available After Lockdown.**  
  
 ##         WEBSITE WILL BE UPDATE... 
