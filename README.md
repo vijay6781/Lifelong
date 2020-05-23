@@ -15,7 +15,9 @@
 text-right:44px;
 padding:8px;
 }
-	
+.tss{
+padding-left:10px;
+}
 	
 .container {
     height: 100px;
@@ -66,7 +68,7 @@ th {
 	border: 2px solid yellow;
 	height: 60px;
 	background:rgba(100,255,110,.9);
-	padding: 25px;
+	padding: 20px;
 	margin: auto;
 }
 
@@ -79,7 +81,7 @@ th {
 
  <h3 style="color:rgb(59, 255, 163);text-align: center;font-size:15px"><a href="https://www.facebook.com/Life-long-104599801271473"> JOIN TO MY FACEBOOK PAGE</a></h3>
 
-<h3 style="color:blue;margin:auto;font-size:20px"> This Website Helps Student.This is good initiative.
+<h3 style="color:blue;margin:auto;font-size:20px"> This Website <span style="color:rgb(255,70,60)"> Helps Student</span>.This is good initiative.
  As we know that we all have old as well new book which may be useful for student.</h3>
  
  
@@ -89,7 +91,7 @@ th {
 	 
                 
 <h3 style="color:rgb(255, 51, 15);text-align: center;font-size:25px">10th result coming soon</h3>		
-  
+ <div class="tss"> 
 <table>
 	
 <tr>
@@ -124,8 +126,9 @@ th {
  
 </tr>
 </table>
-<br>
-
+<hr>
+</div>
+<div class="tss">
   <table>
 	<tr>
 	<th scope="col"> Book Name </th>
@@ -162,28 +165,31 @@ th {
 	
 </tr>	
 </table>
-<br>
- <table>
+</div>
+<div class="tss">
+ <table>	
    <tr>
       <th scope="row">More Book</th>
  <td><a href="https://docs.google.com/spreadsheets/d/1kvnfD-IXiNV7L51Zh9LpoPR2V5DxA_YF1zh9-gUldmw/edit?usp=sharing
    ">click here</a></td>
   </tr>
+ <hr>
+<hr>	
   <tr>
     <th scope="row">For buy book</th> 
     <td><a href="https://forms.gle/5rYRkacWytBEdRN49">click here</a></td>
 	  
   </tr>
   </table>
+  </div>
   
  **Book Will Available After Lockdown.**  
  
 ##         WEBSITE WILL BE UPDATE... 
 
  <div class="container">
-        <div class="item"><a href="https://www.worldometers.info/coronavirus/country/india/">India Corona Cases</a></div>
+        <div class="item"><a href="https://www.worldometers.info/coronavirus/country/india/">India Corona cases</a></div>
     </div>
- 
   <div class="container1">
         <div class="item"><a href="https://navbharattimes.indiatimes.com/state/bihar/patna/coronavirus-latest-update-inbihar-corona-patient-bihar-district-wise-detail/articleshow/75312015.cms">Bihar Corona news</a></div>
     </div>
