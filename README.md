@@ -127,6 +127,13 @@ th {
 	
 </tr>
 <tr>
+ <td> Errorless Chemistry(AIIMS/IIT) </td>
+ <td>1350</td>
+ <td  id="viju" >90%</td>
+ <td  id="viju" >135</td>
+	
+</tr>
+<tr>
 <td>  Upsc NDA/NA   </td>
  <td>650</td>
  <td  id="viju" >90%</td>
