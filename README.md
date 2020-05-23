@@ -4,6 +4,19 @@
 </head>
 <style type="text/css">
 	
+.container1 {
+    height: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+   color:#fff;
+   background:rgb(255, 255, 77);
+   font-size:30px;
+text-right:44px;
+padding:8px;
+}
+	
+	
 .container {
     height: 100px;
     display: flex;
@@ -171,7 +184,7 @@ th {
         <div class="item"><a href="https://www.worldometers.info/coronavirus/country/india/">India Corona news</a></div>
     </div>
  
-  <div class="container">
+  <div class="container1">
         <div class="item"><a href="https://navbharattimes.indiatimes.com/state/bihar/patna/coronavirus-latest-update-inbihar-corona-patient-bihar-district-wise-detail/articleshow/75312015.cms">Bihar Corona news</a></div>
     </div>
 
