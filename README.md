@@ -74,7 +74,7 @@ th {
                 This Website Created For Student Help  
 	 
                 
-<h3 style="color:rgb(255, 51, 15);text-align: center;font-size:25px">10th result Released</h3>		
+<h3 style="color:rgb(255, 51, 15);text-align: center;font-size:25px">10th result coming soon</h3>		
   
 <table>
 	
@@ -86,7 +86,7 @@ th {
 
 <tr>
  <td> Bihar Board 10th Result </td>
- <td><a href="https://bihar-board-matric-result.blogspot.com/?nm=Dilkhush+kumar&rc=26049&rn=20400002&m=1">click here</a></td>
+ <td><a href="http://biharboardonline.bihar.gov.in/">click here</a></td>
 	
 </tr>
 
