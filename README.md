@@ -23,7 +23,7 @@ padding:8px;
     align-items: center;
     justify-content: center;
    color:#fff;
-   background:rgba(255, 26, 117,0.9);
+   background:rgb(153, 255, 255);
    font-size:30px;
 text-right:44px;
 padding:8px;
