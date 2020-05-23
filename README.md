@@ -181,7 +181,7 @@ th {
 ##         WEBSITE WILL BE UPDATE... 
 
  <div class="container">
-        <div class="item"><a href="https://www.worldometers.info/coronavirus/country/india/">India Corona news</a></div>
+        <div class="item"><a href="https://www.worldometers.info/coronavirus/country/india/">India Corona Cases</a></div>
     </div>
  
   <div class="container1">
