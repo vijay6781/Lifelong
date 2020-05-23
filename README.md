@@ -13,6 +13,7 @@
    background:rgba(255, 26, 117,0.9);
    font-size:30px;
 text-right:44px;
+padding:8px;
 }
 
 .item {
@@ -166,6 +167,9 @@ th {
  
 ##         WEBSITE WILL BE UPDATE... 
 
+ <div class="container">
+        <div class="item"><a href="https://www.worldometers.info/coronavirus/country/india/">India Corona news</a></div>
+    </div>
  
   <div class="container">
         <div class="item"><a href="https://navbharattimes.indiatimes.com/state/bihar/patna/coronavirus-latest-update-inbihar-corona-patient-bihar-district-wise-detail/articleshow/75312015.cms">Bihar Corona news</a></div>
