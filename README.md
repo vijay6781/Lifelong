@@ -1,6 +1,7 @@
 
 <head>
 <title>discovery help</title>
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" crossorigin="anonymous">
 </head>
 <style type="text/css">
 	
@@ -37,6 +38,7 @@ padding:8px;
     	
 
 table{
+     align:center;
    teble-align:center;
    text-align:center;
 }
@@ -44,7 +46,7 @@ table{
 body{
 	border: 2px solid rgba(200,20,19,0.5);
 	background:rgb(255,255,255);
-
+        
 
 }
 
@@ -83,7 +85,7 @@ th {
 
 <h3 style="color:blue;margin:auto;font-size:20px"> This Website <span style="color:rgb(255,70,60)"> Helps Student</span>.This is good initiative.
  As we know that we all have old as well new book which may be useful for student.</h3>
- 
+
  
                              NOTICE
                             
