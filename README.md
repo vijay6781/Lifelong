@@ -104,7 +104,7 @@ th {
 
 <tr>
  <td> Bihar Board 10th Result </td>
- <td><a href="http://biharboardonline.bihar.gov.in/">click here</a></td>
+ <td><a href="http://biharboardonline.bihar.gov.in/">server1</a><a href="http://onlinebseb.in//">server2</a><a href="http://bsebresult.online/">server3</a></td>
 	
 </tr>
 
