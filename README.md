@@ -92,7 +92,7 @@ th {
                 This Website Created For Student Help  
 	 
                 
-<h3 style="color:rgb(255, 51, 15);text-align: center;font-size:25px">10th result coming soon today</h3>		
+<h3 style="color:rgb(255, 51, 15);text-align: center;font-size:25px">10th result coming today Afternoon</h3>		
  <div class="tss"> 
 <table>
 	
