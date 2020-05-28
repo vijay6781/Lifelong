@@ -185,18 +185,7 @@ th {
   </table>
   </div>
   
-  <div class="container-fluid"></div>
-  <div class="row">
-  	
-<div class="col-lg-6 col-md-6 col-12">
-  		<img src="https://yt3.ggpht.com/a-/AOh14Gjou2AHW5Af4qh6w1htddrwPU1hckQaz5yypVUnRCU=s88-c-k-c0xffffffff-no-rj-mo" class="img-fluid">
-  	</div>
-  	<div class="col-lg-6 col-md-6 col-12">
-  		<img src="https://yt3.ggpht.com/a-/AOh14Gjou2AHW5Af4qh6w1htddrwPU1hckQaz5yypVUnRCU=s88-c-k-c0xffffffff-no-rj-mo"  class="img-fluid">
-  	</div>
-  </div>
-</div>
-  
+
  **Book Will Available After Lockdown.**  
  
 ##         WEBSITE WILL BE UPDATE... 
@@ -210,8 +199,10 @@ th {
 
    <h1 style="color:rgb(10,200,60);font-size:50px;text-align: center;">Thank You... </h1>
    
-   <script src="https://code.jquery.com/jquery-3.5.1.js"></script>
-https://cdnjs.cloudflare.com/ajax/libs/popper.js/2.4.0/cjs/popper-base.min.js
+   <script src="https://code.jquery.com/jquery-3.5.1.js"></script>    
+   
+   https://cdnjs.cloudflare.com/ajax/libs/popper.js/2.4.0/cjs/popper-base.min.js 
+   
  <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
 <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
  
