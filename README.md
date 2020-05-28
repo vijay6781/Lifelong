@@ -185,6 +185,18 @@ th {
   </table>
   </div>
   
+  <div class="container-fluid"></div>
+  <div class="row">
+  	
+<div class="col-lg-6 col-md-6 col-12">
+  		<img src="https://yt3.ggpht.com/a-/AOh14Gjou2AHW5Af4qh6w1htddrwPU1hckQaz5yypVUnRCU=s88-c-k-c0xffffffff-no-rj-mo" class="img-fluid">
+  	</div>
+  	<div class="col-lg-6 col-md-6 col-12">
+  		<img src="https://yt3.ggpht.com/a-/AOh14Gjou2AHW5Af4qh6w1htddrwPU1hckQaz5yypVUnRCU=s88-c-k-c0xffffffff-no-rj-mo"  class="img-fluid">
+  	</div>
+  </div>
+</div>
+  
  **Book Will Available After Lockdown.**  
  
 ##         WEBSITE WILL BE UPDATE... 
