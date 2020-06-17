@@ -106,34 +106,34 @@ th {
 <table>
 	
 <tr>
-	<th scope="col"> RESULT</th>
-        <th scope="col"> Link</th>
+	<th scope="col">Book Name</th>
+        <th scope="col">Download Link</th>
       
 </tr>
 
 <tr>
- <td> Bihar Board 10th Result </td>
- <td><a href="http://onlinebseb.in/">server1 |</a><a href="http://onlinebseb.in//">server2 |</a><a href="http://bsebresult.online/">server3</a></td>
+ <td>Computer System Architecture-morris mano</td>
+ <td><a href="https://vijayrampeesa.files.wordpress.com/2016/07/computer-system-architecture-morris-mano-third-edition.pdf">Click here</a></td>
 	
 </tr>
 
 <tr>
 	
- <td> Bihar Board 12th Result </td>
- <td><a href="http://onlinebseb.in/">click here</a></td>
+ <td> C++ Book Download</td>
+ <td><a href="https://drive.google.com/file/d/180HeUYxeNXV3aH80WYrJn8peHetGCMzG/view?usp=drivesdk">click here</a></td>
  
 </tr>
 
 <tr>
 	
- <td>  CBSE 10th Result</td>
- <td><a href="http://cbseresults.nic.in/class10/class10th19.htm">click here</a></td>
+ <td> Data Structure and Algorithm C++</td>
+ <td><a href="https://drive.google.com/file/d/107NaCd45SMfJ-bzTbfaScPTfoAelNV3U/view">click here</a></td>
  
 </tr>
 <tr>
 
- <td>  CBSE 12th Result</td>
- <td><a href="http://cbseresults.nic.in/class12/class12th19.htm">click here</a></td>
+ <td>  Lecture Notes on Data Structure</td>
+ <td><a href="https://drive.google.com/file/d/1KBA52BqklL54ncL59p7z7eJd52DTjnX9/view">click here</a></td>
  
 </tr>
 </table>
