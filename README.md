@@ -96,9 +96,9 @@ th {
  As we know that we all have old as well new book which may be useful for student.</h3>
 
  
-                               NOTICE
+                          NOTICE
                             
-                This Website Created For Student Help  
+            This Website Created For Student Help  
 	 
                 	
  <div class="tss"> 
