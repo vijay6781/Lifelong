@@ -96,12 +96,11 @@ th {
  As we know that we all have old as well new book which may be useful for student.</h3>
 
  
-                             NOTICE
+                               NOTICE
                             
                 This Website Created For Student Help  
 	 
-                
-<h3 style="color:rgb(255, 51, 15);text-align: center;font-size:25px">10th result declared</h3>		
+                	
  <div class="tss"> 
 <table>
 	
